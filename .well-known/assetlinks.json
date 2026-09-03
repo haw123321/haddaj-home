@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.app.haddaj",
+      "sha256_cert_fingerprints": [
+        "8E:D1:A4:7C:98:B6:6A:E8:26:4A:74:D0:81:C2:39:13:B4:29:FF:6C:D6:12:34:49:C3:D6:F5:47:91:B1:E5:7D"
+      ]
+    }
+  }
+]
